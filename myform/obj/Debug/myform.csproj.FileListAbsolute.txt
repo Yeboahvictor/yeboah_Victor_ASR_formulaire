@@ -1,0 +1,11 @@
+C:\Users\yeboa\source\repos\myform\myform\bin\Debug\myform.exe.config
+C:\Users\yeboa\source\repos\myform\myform\bin\Debug\myform.exe
+C:\Users\yeboa\source\repos\myform\myform\bin\Debug\myform.pdb
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.csproj.AssemblyReference.cache
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.csproj.SuggestedBindingRedirects.cache
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.Form1.resources
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.Properties.Resources.resources
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.csproj.GenerateResource.cache
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.csproj.CoreCompileInputs.cache
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.exe
+C:\Users\yeboa\source\repos\myform\myform\obj\Debug\myform.pdb
